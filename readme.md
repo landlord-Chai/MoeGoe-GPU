@@ -1,11 +1,9 @@
+### 使用CUDA加速的MoeGoe版本!
 <p align="center">
 	<img alt="GitHub" src="https://img.shields.io/github/license/cjyaddone/ChatWaifu?color=red">
 	<img src="https://img.shields.io/badge/Python-3.7|8|9|10-green" alt="PYTHON" >
 </p>
 
-#
-
-### 使用CUDA加速的MoeGoe版本!
 
 
 
