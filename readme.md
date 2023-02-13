@@ -1,4 +1,3 @@
-
 # 使用CUDA加速的MoeGoe版本!
 
 <p align="center">
