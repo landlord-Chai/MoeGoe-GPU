@@ -5,7 +5,7 @@
 
 #
 
-### 这是一个使用CUDA加速的MoeGoe版本!
+### 使用CUDA加速的MoeGoe版本!
 
 
 
